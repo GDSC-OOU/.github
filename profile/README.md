@@ -7,7 +7,7 @@ Explore the code, projects, and ideas that fuel our passion for technology and i
 
 <p>If you are a student of OOU and haven't joined the club yet, you are highly welcome to join us</p>
 
-[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://gdsc.community.dev/olabisi-onabanjo-university/)
+[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-blue)](https://gdsc.community.dev/olabisi-onabanjo-university/)
 
 
 <p>onnect with us on our socials:</p>
