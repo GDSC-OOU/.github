@@ -10,4 +10,4 @@ Explore the code, projects, and ideas that fuel our passion for technology and i
 [![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-blue)](https://gdsc.community.dev/olabisi-onabanjo-university/)
 
 
-<p>onnect with us on our socials:</p>
+<p>Connect with us on our socials:</p>
