@@ -7,7 +7,11 @@ Explore the code, projects, and ideas that fuel our passion for technology and i
 
 <p>If you are a student of OOU and haven't joined the club yet, you are highly welcome to join us</p>
 
-[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-blue)](https://gdsc.community.dev/olabisi-onabanjo-university/)
+[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-blue?style=for-the-badge)](https://gdsc.community.dev/olabisi-onabanjo-university)
+[![Our Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://gdscoou.slack.com)
 
 
-<p>Connect with us on our socials:</p>
+<h3>Connect with us on our socials:</h3>
+
+[![Twitter](https://img.shields.io/twitter/follow/gdsc_oou?label=X%20(formerly%20Twitter)&style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fgdsc_oou)](https://twitter.com/gdsc_oou)
+[![Instagram](https://img.shields.io/badge/instagram-%FF69B4.svg?style=for-the-badge&logo=instagram&logoColor=white&color=cd486b)](https://instagram.com/gdscoou)
